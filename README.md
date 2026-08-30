@@ -65,8 +65,14 @@ Your weight is actually the amount of gravitational attraction exerted on you by
 
 A table of planet multipliers are below (for example, Mercury's multiplier is 0.4, meaning if you take your weight times 0.4, you will get your weight on Mercury.
 
-Planet	    Mercury	Venus	Mars	Jupiter	Saturn	Uranus	Neptune
-Multiplier	0.4	    0.9	  0.38	2.3	    1.1	   0.92	  1.2
+Planet & Multiplier	    
+Mercury 0.4
+Venus	0.9
+Mars	0.38
+Jupiter	2.3
+Saturn	1.1
+Uranus	0.92
+Neptune 1.2
 
 
 
