@@ -38,7 +38,7 @@ Important: Your work is not considered submitted simply because it runs correctl
 Each class is represented with a file in java. The file name must match the class name and have the ".java" extension.
 
 
- Program #1
+Program #1
 Write code to ask the user to enter their name and print the following message:
 
 Hi <name>, welcome to AP CSA!
@@ -65,8 +65,8 @@ Your weight is actually the amount of gravitational attraction exerted on you by
 
 A table of planet multipliers are below (for example, Mercury's multiplier is 0.4, meaning if you take your weight times 0.4, you will get your weight on Mercury.
 
-Planet	Mercury	Venus	Mars	Jupiter	Saturn	Uranus	Neptune
-Multiplier	0.4	0.9	0.38	2.3	1.1	0.92	1.2
+Planet	    Mercury	Venus	Mars	Jupiter	Saturn	Uranus	Neptune
+Multiplier	0.4	    0.9	  0.38	2.3	    1.1	   0.92	  1.2
 
 
 
@@ -77,5 +77,3 @@ Sample Run:
 Give me any amount of seconds: 356442
 99 hours, 0 minutes, 42 seconds.
 
-
-<img width="540" height="710" alt="image" src="https://github.com/user-attachments/assets/f3ffe29f-1f62-47d9-a921-a898611aed7f" />
